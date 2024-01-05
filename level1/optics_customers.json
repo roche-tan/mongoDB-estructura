@@ -1,0 +1,29 @@
+[
+  {
+    "_id": 1,
+    "name": "Juan Pérez",
+    "postal_address": "Calle Falsa 123, Madrid",
+    "phone": "600-100-200",
+    "email": "juanperez@email.com",
+    "register_date": "2023-01-15",
+    "referred_by_id": null
+  },
+  {
+    "_id": 2,
+    "name": "Ana López",
+    "postal_address": "Av. Andalucía 45, Sevilla",
+    "phone": "610-110-210",
+    "email": "analopez@email.com",
+    "register_date": "2023-02-20",
+    "referred_by_id": 1
+  },
+  {
+    "_id": 3,
+    "name": "Carlos García",
+    "postal_address": "Plaza Mayor 5, Barcelona",
+    "phone": "620-120-220",
+    "email": "carlosgarcia@email.com",
+    "register_date": "2023-03-25",
+    "referred_by_id": null
+  }
+]

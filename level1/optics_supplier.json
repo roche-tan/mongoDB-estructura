@@ -1,0 +1,50 @@
+[
+  {
+      "_id": 1,
+      "name": "Ópticas Visión",
+      "address": {
+          "street": "Calle Gran Vía",
+          "number": "30",
+          "floor": "2",
+          "door": "B",
+          "city": "Madrid",
+          "postal_code": "28013",
+          "country": "España"
+      },
+      "phone": "912-345-678",
+      "fax": "912-345-679",
+      "nif": "B12345678"
+  },
+  {
+      "_id": 2,
+      "name": "Gafas y Lentes",
+      "address": {
+          "street": "Paseo de Gracia",
+          "number": "60",
+          "floor": "1",
+          "door": "A",
+          "city": "Barcelona",
+          "postal_code": "08007",
+          "country": "España"
+      },
+      "phone": "932-456-789",
+      "fax": "932-456-780",
+      "nif": "C23456789"
+  },
+  {
+      "_id": 3,
+      "name": "Centro Óptico Sol",
+      "address": {
+          "street": "Avenida de la Constitución",
+          "number": "18",
+          "floor": "3",
+          "door": "C",
+          "city": "Sevilla",
+          "postal_code": "41004",
+          "country": "España"
+      },
+      "phone": "955-567-890",
+      "fax": "955-567-891",
+      "nif": "D34567890"
+  }
+]
