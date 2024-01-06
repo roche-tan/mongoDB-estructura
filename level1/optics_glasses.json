@@ -1,63 +1,62 @@
 [
   {
-      "_id": 1,
-      "brand": "Ray-Ban",
-      "prescription": {
-          "lens_graduation_left": -1.25,
-          "lens_graduation_right": -1.5
-      },
-      "frame_type": "Metal",
-      "frame_color": "Negro",
-      "lens_color": {
-          "left": "Transparente",
-          "right": "Transparente"
-      },
-      "price": 129.99,
-      "supplier_id": 1
+    "_id": 1,
+    "brand": "Ray-Ban",
+    "prescription": {
+      "lens_graduation_left": -1.25,
+      "lens_graduation_right": -1.5
+    },
+    "frame_type": "Metal",
+    "frame_color": "Negro",
+    "lens_color": {
+      "left": "Transparente",
+      "right": "Transparente"
+    },
+    "price": 129.99
   },
   {
-      "_id": 2,
-      "brand": "Oakley",
-      "prescription": {
-          "lens_graduation_left": 0,
-          "lens_graduation_right": 0
-      },
-      "frame_type": "Paste",
-      "frame_color": "Rojo",
-      "lens_color": {
-          "left": "Azul",
-          "right": "Verde"
-      },
-      "price": 159.99
+    "_id": 2,
+    "brand": "Oakley",
+    "prescription": {
+      "lens_graduation_left": 0,
+      "lens_graduation_right": 0
+    },
+    "frame_type": "Paste",
+    "frame_color": "Rojo",
+    "lens_color": {
+      "left": "Azul",
+      "right": "Verde"
+    },
+    "price": 159.99
   },
   {
-      "_id": 3,
-      "brand": "Gucci",
-      "prescription": {
-          "lens_graduation_left": 2,
-          "lens_graduation_right": 2.5
-      },
-      "frame_type": "Floating",
-      "frame_color": "Dorado",
-      "lens_color": {
-          "left": "Marrón",
-          "right": "Marrón"
-      },
-      "price": 199.99
+    "_id": 3,
+    "brand": "Gucci",
+    "prescription": {
+      "lens_graduation_left": 2,
+      "lens_graduation_right": 2.5
+    },
+    "frame_type": "Floating",
+    "frame_color": "Dorado",
+    "lens_color": {
+      "left": "Marrón",
+      "right": "Marrón"
+    },
+    "price": 199.99
   },
   {
-      "_id": 4,
-      "brand": "Prada",
-      "prescription": {
-          "lens_graduation_left": -1.25,
-          "lens_graduation_right": -1.5
-      },
-      "frame_type": "Metal",
-      "frame_color": "rojo",
-      "lens_color": {
-          "left": "Transparente",
-          "right": "Transparente"
-      },
-      "price": 209.99
+    "_id": 4,
+    "brand": "Prada",
+    "prescription": {
+      "lens_graduation_left": -1.25,
+      "lens_graduation_right": -1.5
+    },
+    "frame_type": "Metal",
+    "frame_color": "rojo",
+    "lens_color": {
+      "left": "Transparente",
+      "right": "Transparente"
+    },
+    "price": 209.99
   }
 ]

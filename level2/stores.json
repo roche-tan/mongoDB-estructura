@@ -1,0 +1,23 @@
+[
+  {
+    "_id": 1,
+    "address": "Calle Falsa 123",
+    "postal_code": "28080",
+    "city": "Madrid",
+    "province": "Madrid"
+  },
+  {
+    "_id": 2,
+    "address": "Avenida de la Luz 45",
+    "postal_code": "08001",
+    "city": "Barcelona",
+    "province": "Barcelona"
+  },
+  {
+    "_id": 3,
+    "address": "Plaza Mayor 10",
+    "postal_code": "41010",
+    "city": "Sevilla",
+    "province": "Sevilla"
+  }
+]

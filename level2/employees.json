@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "name": "Juan",
+    "surname": "Pérez Gómez",
+    "nif": "12345678A",
+    "phone": "600123456",
+    "employee_type": "cocinero",
+    "date_order": null
+  },
+  {
+    "_id": 2,
+    "name": "Ana",
+    "surname": "Martínez López",
+    "nif": "23456789B",
+    "phone": "600234567",
+    "employee_type": "repartirdor",
+    "fecha_hora": "2023-12-21T11:00:00"
+  },
+  {
+    "_id": 3,
+    "name": "Carlos",
+    "surname": "García Fernández",
+    "nif": "34567890C",
+    "phone": "600345678",
+    "employee_type": "repartirdor",
+    "date_order": "2023-12-23T18:45:00"
+  },
+  {
+    "_id": 4,
+    "name": "Laura",
+    "surname": "Jiménez Martín",
+    "nif": "45678901D",
+    "phone": "600456789",
+    "employee_type": "cocinero",
+    "date_order": null
+  }
+]

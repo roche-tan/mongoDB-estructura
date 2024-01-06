@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "date_order": "2023-12-20T10:00:00",
+    "delivery_type": "Recoger",
+    "products": ["Pizza Margarita", "Coca cola"],
+    "price": 20.0,
+    "notes": "",
+    "store_id": 1
+  },
+  {
+    "_id": 2,
+    "date_order": "2023-12-21T11:00:00",
+    "delivery_type": "Domicilio",
+    "products": ["Pizza Margarita", "Pizza Margarita", "Coca cola"],
+    "price": 32.0,
+    "notes": "",
+    "store_id": 2
+  },
+  {
+    "_id": 3,
+    "date_order": "2023-12-22T15:30:00",
+    "tipo_entrega": "Recoger",
+    "products": ["Hamburguesa", "Pizza Margarita"],
+    "price": 24.5,
+    "notes": "",
+    "store_id": 3
+  },
+  {
+    "_id": 4,
+    "date_order": "2023-12-23T18:45:00",
+    "tipo_entrega": "Domicilio",
+    "products": ["Hamburguesa", "Pizza Margarita"],
+    "price": 24.5,
+    "notes": "Carne al punto",
+    "store_id": 2
+  }
+]

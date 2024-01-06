@@ -15,7 +15,7 @@
     "phone": "610-110-210",
     "email": "analopez@email.com",
     "register_date": "2023-02-20",
-    "referred_by_id": 1
+    "referred_by": "Juan Pérez"
   },
   {
     "_id": 3,
